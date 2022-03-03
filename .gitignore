@@ -17,9 +17,10 @@ dist/
 *.tmp
 *_data
 .DS_Store
-run.py
+.~lock.*
 # data
-run.py
+datasets/
 batches/
 runs/
 debug/
+.*.ipynb.py
