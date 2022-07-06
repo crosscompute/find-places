@@ -48,7 +48,6 @@ output:
           - type: circle
             paint:
               circle-color: yellow
-        path: map.json
 
   # output templates
   # - path to your markdown template or jupyter notebook form
