@@ -27,7 +27,7 @@ input:
   # input templates
   # - path to your markdown template or jupyter notebook form
   templates:
-    - path: form.md
+    - path: input.md
 
 # output configuration
 output:
