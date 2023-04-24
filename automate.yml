@@ -22,13 +22,13 @@ output:
       view: map-mapbox
       path: geometries.geojson
       configuration:
-        style: mapbox://styles/mapbox/dark-v10
+        style: mapbox://styles/mapbox/dark-v11
         layers:
           - type: circle
             paint:
               circle-color: yellow
   templates:
-    - path: report.md
+    - path: output.md
 batches:
   - name: '{description} in {location}'
     folder: batches/{description | slug}-in-{location | slug}
@@ -41,7 +41,7 @@ environment:
     - id: GOOGLE_KEY
 display:
   styles:
-    - path: report.css
+    - path: style.css
   pages:
     - id: output
       configuration:
