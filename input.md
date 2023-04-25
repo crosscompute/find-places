@@ -2,15 +2,15 @@
 
 Find Places is a web application that helps users quickly and easily find places of interest in a specific location. With its simple and intuitive interface, Find Places makes it easy for anyone looking to explore new areas or find specific types of places in their local area or around the world.
 
-The application takes two inputs: 
+The application takes two inputs:
 
 - Describe the type of place you are looking for (such as "Hospital" or "Restaurant")
-- Enter the exact or general location you want to search near (such as an address, city name, or geographic location). 
+- Enter the exact or general location you want to search near (such as an address, city name or geographic location).
 - Then click the Continue button.
 
-Find Places then searches for places of the specified type near the specified location and displays them on a map. 
+Find Places then searches for places of the specified type near the specified location and displays them on a map.
 
-Find Places by CrossCompute makes it easy for you to visualize your options and select the one that best meets your needs. 
+Find Places by CrossCompute makes it easy for you to visualize your options and select the one that best meets your needs.
 
 { description }
 
@@ -23,7 +23,7 @@ Find Places by CrossCompute makes it easy for you to visualize your options and 
 Here are some sample inputs that you can try:
 
 ```
-Description: "Coffee Shop" 
+Description: "Coffee Shop"
 Location: "San Francisco, CA, USA"
 ```
 
@@ -38,12 +38,12 @@ Location: "London, UK"
 ```
 
 ```
-Type of Place: "ATM" 
+Type of Place: "ATM"
 Location: "Tokyo, Japan"
 ```
 
 ```
-Description: "Pizza Place" 
+Description: "Pizza Place"
 Location: "New York, NY, USA"
 ```
 
