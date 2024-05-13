@@ -1,6 +1,7 @@
 ---
 crosscompute: 0.9.4
 name: Find Places
+description: Find places of interest in a specific location and show them on a map
 version: 0.0.2
 input:
   variables:

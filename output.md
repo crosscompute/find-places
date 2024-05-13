@@ -6,4 +6,4 @@
 
 { raw }
 
-Data is provided by various third-party data sources, including OpenStreetMap and Google Places.
+Data is from [Google Places](https://developers.google.com/maps/documentation/places).
