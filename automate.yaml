@@ -40,6 +40,9 @@ batches:
 scripts:
   - path: run.ipynb
 environment:
+  packages:
+    - id: requests
+      manager: pip
   variables:
     - id: GOOGLE_KEY
 display:
